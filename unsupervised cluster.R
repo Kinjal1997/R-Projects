@@ -31,3 +31,6 @@ results$cluster
 plot(data[c("PetalLengthCm","PetalWidthCm")],col=results$cluster)
 plot(data[c("SepalLengthCm","SepalWidthCm")],col=results$cluster)
 
+
+
+
